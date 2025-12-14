@@ -2,7 +2,7 @@
 
 Если у вас есть вопросы, предложения или вы нашли ошибку в приложении **JW Ministry**, напишите:
 
-- по электронной почте: [sserg.kem@gmail.com](mailto:sserg.kem@gmail.com)
+- по электронной почте: [jwministry.app@gmail.com](mailto:jwministry.app@gmail.com)
 - через Issues на GitHub: [https://github.com/myministry/information/issues](https://github.com/myministry/information/issues)
 
 Политика конфиденциальности:  
